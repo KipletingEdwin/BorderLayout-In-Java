@@ -15,5 +15,14 @@ public class Main {
         frame.setSize(500,500);
         frame.setVisible(true);
 
+        JPanel panel1 = new JPanel();
+        JPanel panel2 = new JPanel();
+        JPanel panel3 = new JPanel();
+        JPanel panel4 = new JPanel();
+        JPanel panel5 = new JPanel();
+
+
+
+
     }
 }
