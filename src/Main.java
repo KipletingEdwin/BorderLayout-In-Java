@@ -31,6 +31,14 @@ public class Main {
 
 
 
+        frame.add(panel1,BorderLayout.NORTH);
+        frame.add(panel2,BorderLayout.WEST);
+        frame.add(panel3,BorderLayout.EAST);
+        frame.add(panel4,BorderLayout.SOUTH);
+        frame.add(panel5,BorderLayout.CENTER);
+
+
+
 
     }
 }
